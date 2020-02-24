@@ -1,0 +1,70 @@
+@font-face {
+    font-family: Arial-Bold MT; 
+    src: url(/fonts/Arial-Bold-MT.otf); 
+    font-family: Arial-MT; 
+    src: url(/fonts/Arial-Bold-MT.otf); 
+   }
+
+
+
+.big-block {
+    display: inline-block;
+    width: 1200px;
+    height: 675px;
+    background-color: #f6f6f6;
+    margin: 20px;
+    
+}
+.white-block {
+    display: inline-block;
+    width: 1010px;
+    height: 503px;
+    border: 1px solid #d7d7d7;
+    background-color: #ffffff;
+    margin: 82px;
+}
+
+.heads {
+    margin: 52px 52px 52px 44px;
+}
+
+.text {
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 10px;
+    margin-left: 535px;
+    margin-top: -402px;
+    float: left;
+}
+
+.heads-text {
+    width: 178px;
+    height: 22px;
+    color: #2f2f2f;
+    font-family: Arial-Bold MT;
+    font-size: 23px;
+    font-weight: bold;
+
+}
+
+.p {
+    color: #2f2f2f;
+    font-family: Arial-Bold MT;
+    font-size: 23px;
+    font-weight: 400;
+
+}
+
+.cart {
+    width: 252px;
+    height: 50px;
+    background-color: #ec744a;
+}
+
+.cart-2 {
+    background-color: #ec744a;
+    font-family: Arial-MT;
+    font-size: 19px;
+    font-weight: 400;
+    padding: 14px 10px 14px 41px;
+}
